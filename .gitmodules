@@ -19,3 +19,18 @@
 [submodule "nft-tap-finance/tellor"]
 	path = nft-tap-finance/tellor
 	url = git@github.com:tap-finance/tellor.git
+[submodule "MIT-Hackathon/AloneTogether"]
+	path = MIT-Hackathon/AloneTogether
+	url = git@github.com:HackXR-2023/AloneTogether.git
+[submodule "MIT-Hackathon/image-processing"]
+	path = MIT-Hackathon/image-processing
+	url = git@github.com:HackXR-2023/image-processing.git
+[submodule "Calhacks9-Solana/NodeServerWebHooks"]
+	path = Calhacks9-Solana/NodeServerWebHooks
+	url = git@github.com:pablojosecode/NodeServerWebHooks.git
+[submodule "Calhacks9-Solana/charity_solana"]
+	path = Calhacks9-Solana/charity_solana
+	url = git@github.com:pablojosecode/charity_solana.git
+[submodule "Calhacks9-Solana/jupiter-price"]
+	path = Calhacks9-Solana/jupiter-price
+	url = git@github.com:pablojosecode/jupiter-price.git
