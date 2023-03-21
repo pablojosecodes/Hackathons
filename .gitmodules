@@ -1,0 +1,21 @@
+[submodule "nft-tap-finance/cartesi-contract-maker"]
+	path = nft-tap-finance/cartesi-contract-maker
+	url = git@github.com:tap-finance/cartesi-contract-maker.git
+[submodule "nft-tap-finance/flask-backend"]
+	path = nft-tap-finance/flask-backend
+	url = git@github.com:tap-finance/flask-backend.git
+[submodule "nft-tap-finance/sol-contracts"]
+	path = nft-tap-finance/sol-contracts
+	url = git@github.com:tap-finance/sol-contracts.git
+[submodule "nft-tap-finance/tap-finance_frontend"]
+	path = nft-tap-finance/tap-finance_frontend
+	url = git@github.com:tap-finance/tap-finance_frontend.git
+[submodule "nft-tap-finance/tap-nft"]
+	path = nft-tap-finance/tap-nft
+	url = git@github.com:tap-finance/tap-nft.git
+[submodule "nft-tap-finance/tapp-solidity-contracts"]
+	path = nft-tap-finance/tapp-solidity-contracts
+	url = git@github.com:tap-finance/tapp-solidity-contracts.git
+[submodule "nft-tap-finance/tellor"]
+	path = nft-tap-finance/tellor
+	url = git@github.com:tap-finance/tellor.git
