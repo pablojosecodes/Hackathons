@@ -1,0 +1,9 @@
+[submodule "jupiter-price"]
+	path = jupiter-price
+	url = git@github.com:pablojosecode/jupiter-price.git
+[submodule "NodeServerWebHooks"]
+	path = NodeServerWebHooks
+	url = git@github.com:pablojosecode/NodeServerWebHooks.git
+[submodule "charity_solana"]
+	path = charity_solana
+	url = git@github.com:pablojosecode/charity_solana.git
